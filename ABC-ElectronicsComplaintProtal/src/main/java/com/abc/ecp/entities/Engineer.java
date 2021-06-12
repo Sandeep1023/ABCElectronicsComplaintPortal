@@ -17,7 +17,6 @@ import javax.validation.constraints.Size;
 
 import org.springframework.data.jpa.repository.Query;
 
-import com.abc.ecp.dto.ComplaintResponse;
 
 import lombok.Data;
 import lombok.NoArgsConstructor;

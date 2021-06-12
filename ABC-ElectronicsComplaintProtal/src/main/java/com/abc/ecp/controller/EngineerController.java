@@ -15,7 +15,6 @@ import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.abc.ecp.dto.ComplaintResponse;
 import com.abc.ecp.entities.Complaint;
 import com.abc.ecp.entities.Engineer;
 import com.abc.ecp.exception.InvalidEngineerIdException;
